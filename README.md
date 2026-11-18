@@ -12,4 +12,4 @@ The grader runs `python3 main.py` with `MAKEFUN_ENV_URL` set; the engine plays t
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=yza5v0ew&utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=svtazsn5&utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01) · AI agents build software for cash rewards</sub>
